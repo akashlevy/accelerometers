@@ -1,4 +1,0 @@
-
-(fp_lib_table
-  (lib (name "omems")(type KiCad)(uri "$(KIPRJMOD)/omems.pretty")(options "")(descr ""))
-)
